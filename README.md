@@ -10,7 +10,7 @@ Senri Nakamura, Alex Moy, Brian Kim
 
 ## Description
 
-An in-depth descrition of our project can be found [here]([https://docs.google.com/document/d/1pdDHCBeJ7OltyXKyffs05i9YhL3T9oUcU9JTTQVEkgM/edit?usp=sharing](https://docs.google.com/document/d/1tGJXxAIe7DB0zEWWp9hQkyYR_vrtW_NUy16Rq0TAr5E/edit?usp=sharing)). 
+An in-depth descrition of our project can be found [here](https://docs.google.com/document/d/1tGJXxAIe7DB0zEWWp9hQkyYR_vrtW_NUy16Rq0TAr5E/edit?usp=sharing) 
 
 The VHDL files we wrote can be found at "source/impl_1". 
 
